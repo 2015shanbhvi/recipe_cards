@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **[https://jupyterlite.github.io/demo](https://2015shanbhvi.github.io/recipe_cards)**
+➡️ **[https://2015shanbhvi.github.io/recipe_cards](https://2015shanbhvi.github.io/recipe_cards)**
 
 
 ## Requirements
